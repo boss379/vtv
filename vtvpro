@@ -167,13 +167,13 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="fchannel" group-title="🌐| Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1024px-FPT_logo_2010.svg.png",FPT Channel
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="onsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/ON_Sports_HD.png" group-title="Thể Thao",ON Sports HD
+#EXTINF:-1 tvg-id="onsportshd" group-title="ON Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/ON_Sports_HD.png" group-title="Thể Thao",ON Sports HD
 https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/THETHAO_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="haytv" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4e/Hay_TV_logo.png" group-title="Giải Trí",HAY TV
+#EXTINF:-1 tvg-id="haytv" group-title="ON Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4e/Hay_TV_logo.png" group-title="Giải Trí",HAY TV
 https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/HAY_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="bongdahd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Bong_Da_HD_logo.png" group-title="Thể Thao",Bóng Đá HD
+#EXTINF:-1 tvg-id="bongdahd" group-title="ON Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Bong_Da_HD_logo.png" group-title="Thể Thao",Bóng Đá HD
 https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/BONGDA_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="thethaotintuchd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/2f/The_thao_tin_tuc_HD.png" group-title="Thể Thao",Thể Thao Tin Tức HD
+#EXTINF:-1 tvg-id="thethaotintuchd" group-title="ON Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/2f/The_thao_tin_tuc_HD.png" group-title="Thể Thao",Thể Thao Tin Tức HD
 https://live-cdn04.khanggtivi.xyz:8443/pini=sv3.localhost.ini/THETHAO_TINTUC_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hanoi1.png",HanoiTV1 | TH Hà Nội

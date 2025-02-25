@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://vntv.ddns.net/epg" tvg-shift=0 m3uautoload=1
-
 #-*--VTV--*-#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://seeklogo.com/images/V/vtv-go-logo-D0949DCBB2-seeklogo.com.png" tvg-logo="http://vntv.ddns.net/logo/1.png",VTV1
 http://vntv.ddns.net/vtv/vtv1.m3u8

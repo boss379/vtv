@@ -424,7 +424,7 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="france24" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png", FRANCE 24
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/200px-Logo_TV5_Monde_-_2021.svg.png", FRANCE 24
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/200px-Logo_TV5_Monde_-_2021.svg.png", TV5MONDE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1

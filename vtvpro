@@ -1,27 +1,4 @@
-#EXTM3U url-tvg="http://vntv.ddns.net/epg" tvg-shift=0 m3uautoload=1
-#-*--VTV--*-#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV DỰ PHÒNG" group-logo="https://seeklogo.com/images/V/vtv-go-logo-D0949DCBB2-seeklogo.com.png" tvg-logo="http://vntv.ddns.net/logo/1.png",VTV1
-http://vntv.ddns.net/vtv/vtv1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/2.png",VTV2
-http://vntv.ddns.net/vtv/vtv2.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/3.png",VTV3
-http://vntv.ddns.net/vtv/vtv3.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/4.png",VTV4
-http://vntv.ddns.net/vtv/vtv4.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/5.png",VTV5
-http://vntv.ddns.net/vtv/vtv5.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/6.png",VTV5 Tây Nam Bộ
-http://vntv.ddns.net/vtv/vtv5tnb.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/7.png",VTV5 Tây Nguyên
-http://vntv.ddns.net/vtv/vtv5tn.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/8.png",VTV Cần Thơ
-http://vntv.ddns.net/vtv/vtv6.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/9.png",VTV7
-http://vntv.ddns.net/vtv/vtv7.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/10.png",VTV8
-http://vntv.ddns.net/vtv/vtv8.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/11.png",VTV9
-
+#EXTM3U 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV VIP" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV VIP" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
@@ -45,29 +22,29 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV VIP" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTM3U url-tvg="http://vntv.ddns.net/epg" tvg-shift=0 m3uautoload=1
-#-*--VTV--*-#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV DỰ PHÒNG" group-logo="https://seeklogo.com/images/V/vtv-go-logo-D0949DCBB2-seeklogo.com.png" tvg-logo="http://vntv.ddns.net/logo/1.png",VTV1
-http://vntv.ddns.net/vtv/vtv1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/2.png",VTV2
-http://vntv.ddns.net/vtv/vtv2.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/3.png",VTV3
-http://vntv.ddns.net/vtv/vtv3.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/4.png",VTV4
-http://vntv.ddns.net/vtv/vtv4.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/5.png",VTV5
-http://vntv.ddns.net/vtv/vtv5.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/6.png",VTV5 Tây Nam Bộ
-http://vntv.ddns.net/vtv/vtv5tnb.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/7.png",VTV5 Tây Nguyên
-http://vntv.ddns.net/vtv/vtv5tn.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/8.png",VTV Cần Thơ
-http://vntv.ddns.net/vtv/vtv6.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/9.png",VTV7
-http://vntv.ddns.net/vtv/vtv7.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/10.png",VTV8
-http://vntv.ddns.net/vtv/vtv8.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/11.png",VTV9
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv1hd/KenhCoBan",VTV1 HD
+https://tv.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv2hd/KenhCoBan",VTV2 HD
+https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv3hd/KenhCoBan",VTV3 HD
+https://tv.TruyenHinh.Click/CoBan/vtv3hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv4hd/KenhCoBan",VTV4 HD
+https://tv.TruyenHinh.Click/CoBan/vtv4hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hd/KenhCoBan",VTV5 HD
+https://tv.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtn/KenhCoBan",VTV5 Tây Nguyên
+https://tv.TruyenHinh.Click/CoBan/vtv5hdtn/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv5hdtnb/KenhCoBan",VTV5 Tây Nam Bộ
+https://tv.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv6hd/KenhCoBan",VTV Cần Thơ HD
+https://tv.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv7hd/KenhCoBan",VTV7 HD
+https://tv.TruyenHinh.Click/CoBan/vtv7hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv8hd/KenhCoBan",VTV8 HD
+https://tv.TruyenHinh.Click/CoBan/vtv8hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV DỰ PHÒNG" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv9hd/KenhCoBan",VTV9 HD
+https://tv.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh
+
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV1.png",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631

@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://vntv.ddns.net/epg" tvg-shift=0 m3uautoload=1
-#-*--VTV--*-#
+#EXTM3U
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV VIP" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV VIP" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
@@ -23,6 +22,8 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV VIP" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTM3U url-tvg="http://vntv.ddns.net/epg" tvg-shift=0 m3uautoload=1
+#-*--VTV--*-#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV DỰ PHÒNG" group-logo="https://seeklogo.com/images/V/vtv-go-logo-D0949DCBB2-seeklogo.com.png" tvg-logo="http://vntv.ddns.net/logo/1.png",VTV1
 http://vntv.ddns.net/vtv/vtv1.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV DỰ PHÒNG" tvg-logo="http://vntv.ddns.net/logo/2.png",VTV2

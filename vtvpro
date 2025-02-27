@@ -76,17 +76,19 @@ http://vntv.ddns.net/vtv/vtv8.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV DỰ PHÒNG 3" tvg-logo="http://vntv.ddns.net/logo/11.png",VTV9  
 http://vntv.ddns.net/vtv/vtv9.m3u8
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 
 http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 
 http://125hvt.ddns.net:21585/vtv3/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV DỰ PHÒNG 4"  tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV DỰ PHÒNG 4"  tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 
 http://125hvt.ddns.net:21585/vtv5/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+http://125hvt.ddns.net:21585/vtv6/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 
 http://125hvt.ddns.net:21585/vtv8/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV DỰ PHÒNG 4" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 
 http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV1.png",HTV1

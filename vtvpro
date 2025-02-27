@@ -466,6 +466,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="hbohd"  group-title="📦| Phim" group-logo="https://cdn.hqth.me/logo/category/hbo.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
+http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh

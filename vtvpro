@@ -383,7 +383,8 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct", "kid":"fmjtp2NDTYq96Sp3Xcd6uA", "k":"DsFPEDEZaW32bvRQtdGslQ" },{"kty":"oct", "kid":"xqztp2NDTYq96Sp3Xcd6uA", "k":"5+I0u0MiIz1Fz10fOkmaog" },{"kty":"oct", "kid":"07Ax2GNDTYq96Sp3Xcd6uA", "k":"K0Lvfq/cbMUvjKDk1U4WUQ" },{"kty":"oct", "kid":"v70x8LJDTYq96Sp3Xcd6uA", "k":"PKZ1J3Aw52BdIHEk4pZGXQ" }], "type":"temporary"}',
+    //"htv7" => '{"keys":[{"kty":"oct","kid":"8zE7YP6aRcidUpZWTQQnvg","k":"OfczCJRwgrWvHe5-A2VJkw"}],"type":"temporary"}
 https://live2onsport.vtvcab.vn/onplus/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab7/${start}/${offset}", On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -407,7 +408,7 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct", "kid":"kAAncpa5qz8565d+i3QeXw", "k":"qgQ9JlWLE47PSnaVN3K2eQ" },{"kty":"oct", "kid":"2EQncpa5qz8565d+i3QeXw", "k":"pzzR9mSKijNMOSPbn11Rag" },{"kty":"oct", "kid":"5Uhro5a5qz8565d+i3QeXw", "k":"JgWSjZryvN2XtxtRHBFJyw" },{"kty":"oct", "kid":"0VVru+W5qz8565d+i3QeXw", "k":"mmAjjqQxPs4A1fkmxdGGCg" }], "type":"temporary"}
 https://live2onsport.vtvcab.vn/onplus/BONGDA_HD/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -416,7 +417,7 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct", "kid":"Q8jNBisyTvC21cdGqoJfWA", "k":"+Ioz+qJ67pYHsObjkYRWiw" },{"kty":"oct", "kid":"iwzNBisyTvC21cdGqoJfWA", "k":"/DFI/IQMzBM+FMmsz+smMA" },{"kty":"oct", "kid":"mBARNysyTvC21cdGqoJfWA", "k":"2XB816h8l2atCCUHBMlh6g" },{"kty":"oct", "kid":"hB0RT3oyTvC21cdGqoJfWA", "k":"pRNpwFfXSlTayjyM2k61dg" }], "type":"temporary"}
 https://live2onsport.vtvcab.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0

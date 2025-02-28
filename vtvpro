@@ -53,7 +53,7 @@ http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV DỰ PHÒNG 3" tvg-logo="https://i.imgur.com/7rLCvgS.png", VTV3 HD
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV DỰ PHÒNG 3" ttvg-logo="https://i.imgur.com/7qPKNFU.png", VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV DỰ PHÒNG 3" ttvg-logo="https://i.imgur.com/7qPKNFU.png", VTV5 HD
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv5?token=live
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV DỰ PHÒNG 3" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD

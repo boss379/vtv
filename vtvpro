@@ -524,22 +524,22 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eI4oNfuYVortL0e73AkVFQ","kid":"k0kHsTS+OWOmJjpFOEaSTA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-name="BBC Lifestyle" group-title="Trung boss", BBC Lifestyle
+#EXTINF:-1 tvg-name="BBC Lifestyle" group-title="Quốc tế", BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I+jF8v4gKQasLWVU2VJymQ","kid":"WLlJmG7RMpS8AbDzMKvFJw"},{"kty":"oct",}],"type":"temporary"}
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
-#EXTINF:-1 tvg-name="BBC Earth" group-title="Trung boss", BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Quốc tế", BBC Earth
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8/oP4805pS9O79Nv9xYeiQ","kid":"UBSUGixCN5iAte33IwTBZQ"}],"type":"temporary"}
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cartoon" group-title="Trung boss", Cartoon Network
+#EXTINF:-1 tvg-id="cartoon" group-title="Quốc tế", Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PCAWZmCpOnWsd9uBVnOJ9w","k":"PMGt1Drszj_jHJxqKluMIQ"}],"type":"temporary"}
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cbeebies" group-title="Trung boss", CBeebies
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc tế", CBeebies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zKc6AGtLOaWVIHzrXtnKCg","k":"uDPR9AwmHveIlvl-BvgM3A"}],"type":"temporary"}

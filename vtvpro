@@ -135,6 +135,10 @@ http://vuikhoetv.online:80/live/quangtrung379/trung1987/7143.ts
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7136.ts
 #EXTINF:-1 tvg-id="kaction" tvg-name="K+ Action" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042537&path-prefix=vi" group-title="K+ Channels",K+ Action
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7137.ts
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="K+ Channels",K+ Sport 1 | Fast
+http://vuikhoetv.online:80/live/quangtrung379/trung1987/7147.ts
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042555&path-prefix=vi" group-title="K+ Channels",K+ Sport 2 | Fast
+http://vuikhoetv.online:80/live/quangtrung379/trung1987/7148.ts
 
 #EXTINF:-1 tvg-id="onsportsnews" tvg-name="On Sports News | ClipTV" tvg-logo="https://vuikhoetv.online:443/images/940fb9b61597442fafbafdf407b76365.jpg" group-title="Sport + Channel",On Sports News | ClipTV
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/4755.ts

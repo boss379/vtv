@@ -154,7 +154,7 @@ http://vuikhoetv.online:80/live/beo123/tr1234/7204.ts
 http://vuikhoetv.online:80/live/beo123/tr1234/7206.ts
 #EXTINF:-1 tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/SCTV22_SSport_1.png/revision/latest?cb=20230802033043&path-prefix=vi" group-title="Sport + Channel",SCTV22
 http://vuikhoetv.online:80/live/beo123/tr1234/7211.ts
-#E#EXTINF:-1 xui-id="7204" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title=" SCTV ⚽️",SCTV15
+#EXTINF:-1 xui-id="7204" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title=" SCTV ⚽️",SCTV15
 http://vuikhoetv.online:80/live/beo123/tr1234/7204.ts
 #EXTINF:-1 xui-id="7206" tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title=" SCTV ⚽️",SCTV17
 http://vuikhoetv.online:80/live/beo123/tr1234/7206.ts

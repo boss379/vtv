@@ -25,7 +25,7 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV 360TV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD  
-https://tv.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh  
+https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV 360TV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD  
 https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh  
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV 360TV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD  
